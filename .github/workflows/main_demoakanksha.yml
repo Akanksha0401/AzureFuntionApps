@@ -39,4 +39,4 @@ jobs:
           app-name: 'DemoAkanksha'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1689AEAD5E2D45CCB713DC6A0BD62B4D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_92FD28805D4940AD8688F3EDBAFB803C }}
